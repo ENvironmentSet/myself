@@ -5,7 +5,7 @@ myself is a digital diary service.
 ## Schedules
 
 - [ ] Planning-Level
-  - [ ] Planning Features(Conceptual Design)
+  - [x] Planning Features(Conceptual Design)
   - [ ] Designing website
   - [ ] Planning website
     - [ ] Choosing libraries and frameworks
