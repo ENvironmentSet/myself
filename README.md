@@ -8,7 +8,7 @@ myself is a digital diary service.
   - [x] [Planning Features(Conceptual Design)](https://github.com/ENvironmentSet/myself/blob/master/docs/conceptual-design.md)
   - [x] [Designing website](https://github.com/ENvironmentSet/myself/blob/master/docs/site-design.md)
   - [ ] Planning website
-    - [ ] Choosing libraries and frameworks
+    - [x] [Choosing libraries and frameworks](https://github.com/ENvironmentSet/myself/blob/master/docs/3rd-party.md)
     - [ ] Splitting website into several pages
     - [ ] Splitting pages into several components and containers
     - [ ] Writing specification for pages
